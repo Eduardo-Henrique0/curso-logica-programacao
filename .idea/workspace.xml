@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6fdf37b-b0d7-4e0a-a2c8-7073e033b0c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/acima_diagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matriz_geral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,10 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.acima_diagonal.executor": "Run",
     "Application.cada_linha.executor": "Run",
     "Application.comerciante.executor": "Debug",
     "Application.dados_pessoas.executor": "Run",
     "Application.diagonal_negativos.executor": "Run",
+    "Application.matriz_geral.executor": "Run",
     "Application.negativos_matriz.executor": "Run",
     "Application.soma_linhas.executor": "Run",
     "Application.soma_matrizes.executor": "Run",
